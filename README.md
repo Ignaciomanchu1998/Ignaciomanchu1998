@@ -1,40 +1,43 @@
-<h2 align="center">¡Hola!, soy Ignacio Manchu 👋</h2>
+<h1 align="center">Hello! I'm Ignacio Manchu 👋</h1>
 <h3 align="center">Mobile Developer | Especializado en Flutter, Kotlin</h3>
 
 ---
 
-### 🚀 Sobre mí
-Soy ingeniero de software apasionado por el desarrollo backend y mobile. Actualmente, trabajo en **AcontPlus** y **KJaia**, donde desarrollo aplicaciones robustas y amigables para el usuario. Me especializo en:
+### 🚀 About Me
+I'm a passionate software developer specializing in **Flutter with Dart** for mobile applications. I have experience in **backend development** with **C# .NET** and database management using **SQL**. I also enjoy working on **frontend projects** with **Angular, JavaScript, HTML, and Bootstrap** to build interactive interfaces.
 
-- 🧩 Backend con **C# .NET**
-- 📱 Desarrollo mobile con **Kotlin (Jetpack Compose)** y **Flutter**
-- 🌐 Optimización de bases de datos y sistemas de alto rendimiento
+- 📱 **Mobile Development**: Flutter, Dart  
+- 🛠️ **Backend**: C# .NET, SQL Server  
+- 🎨 **Frontend**: Angular, JavaScript, HTML, Bootstrap
 
-Me encanta seguir aprendiendo y enfrentar nuevos desafíos tecnológicos. 📚
 
----
-
-### 🛠️ Tech Stack
-- **Lenguajes**: C#, Kotlin, Dart, SQL
-- **Frameworks y herramientas**: .NET, Jetpack Compose, Flutter, Docker
-- **Bases de datos**: SQL Server, PostgreSQL
-- **Nube**: Amazon S3, Azure
-- **Control de versiones**: Git, GitHub
+I focus on delivering scalable and efficient solutions while continually learning and improving my skills. 📚 
 
 ---
 
-### 🌟 Proyectos Destacados
-| Proyecto        | Descripción                                  | Tecnologías                   |
-|-----------------|----------------------------------------------|--------------------------------|
-| **AcontPlus**   | Aplicación de cursos similar a Udemy.        | Flutter, Amazon S3, SQL Server |
-| **KJaia**       | Aplicación de autocuidado y bienestar.       | Flutter, Firebase             |
-| **App Asistencia** | Registro de asistencias para la escuela sabática. | Flutter, SQLite               |
+### 🛠️ Tech Stack  
+- **Languages**: Dart, C#, JavaScript, SQL  
+- **Mobile**: Flutter (Cross-Platform)  
+- **Frontend**: Angular, JavaScript, HTML 5, Bootstrap 5 
+- **Backend**: .NET (C#), REST APIs
+- **Databases**: SQL Server, SQLite 
+- **Tools**: Git, Docker, Firebase Crashlytics
+
+---
+
+### 🌟 Featured Projects  
+| Project          | Description                                | Technologies  and Tools        |  
+|------------------|--------------------------------------------|--------------------------------|  
+| **AcontPlus**    | Course app similar to Udemy.               | Flutter, SQLite, Firebase Crashlytics |  
+| **KJaia**        | Self-care and wellness application.        | Flutter, Firebase             |  
+| **Attendance App** | Attendance tracker for Sabbath school.   | Flutter, SQLite               |  
+| **Template-Based Portfolio** | Responsive portfolio showcasing projects. | Angular, HTML, Bootstrap       |
 
 ---
 
 ### 📈 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuNombreDeUsuario&show_icons=true&theme=dracula)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Ignaciomanchu1998&show_icons=true&theme=dracula)
 
 ---
 
