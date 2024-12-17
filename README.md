@@ -1,20 +1,48 @@
-## Hi there 👋
+<h2 align="center">¡Hola!, soy Ignacio Manchu 👋</h2>
+<h3 align="center">Mobile Developer | Especializado en Flutter, Kotlin</h3>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+---
 
-<!--
-**Ignaciomanchu1998/Ignaciomanchu1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mí
+Soy ingeniero de software apasionado por el desarrollo backend y mobile. Actualmente, trabajo en **AcontPlus** y **KJaia**, donde desarrollo aplicaciones robustas y amigables para el usuario. Me especializo en:
 
-Here are some ideas to get you started:
+- 🧩 Backend con **C# .NET**
+- 📱 Desarrollo mobile con **Kotlin (Jetpack Compose)** y **Flutter**
+- 🌐 Optimización de bases de datos y sistemas de alto rendimiento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me encanta seguir aprendiendo y enfrentar nuevos desafíos tecnológicos. 📚
+
+---
+
+### 🛠️ Tech Stack
+- **Lenguajes**: C#, Kotlin, Dart, SQL
+- **Frameworks y herramientas**: .NET, Jetpack Compose, Flutter, Docker
+- **Bases de datos**: SQL Server, PostgreSQL
+- **Nube**: Amazon S3, Azure
+- **Control de versiones**: Git, GitHub
+
+---
+
+### 🌟 Proyectos Destacados
+| Proyecto        | Descripción                                  | Tecnologías                   |
+|-----------------|----------------------------------------------|--------------------------------|
+| **AcontPlus**   | Aplicación de cursos similar a Udemy.        | Flutter, Amazon S3, SQL Server |
+| **KJaia**       | Aplicación de autocuidado y bienestar.       | Flutter, Firebase             |
+| **App Asistencia** | Registro de asistencias para la escuela sabática. | Flutter, SQLite               |
+
+---
+
+### 📈 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuNombreDeUsuario&show_icons=true&theme=dracula)
+
+---
+
+### 🤝 Conéctate conmigo
+- 💼 **LinkedIn**: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil/)
+- 📧 **Email**: [Tu Email](mailto:tuemail@gmail.com)
+- 🌐 **Portafolio**: [Tu Sitio Web o Portafolio](https://tusitio.com)
+
+---
+
+<p align="center">✨ "Nunca dejes de aprender y construir cosas asombrosas" ✨</p>
