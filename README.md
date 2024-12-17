@@ -6,11 +6,6 @@
 ### 🚀 About Me
 I'm a passionate software developer specializing in **Flutter with Dart** for mobile applications. I have experience in **backend development** with **C# .NET** and database management using **SQL**. I also enjoy working on **frontend projects** with **Angular, JavaScript, HTML, and Bootstrap** to build interactive interfaces.
 
-- 📱 **Mobile Development**: Flutter, Dart  
-- 🛠️ **Backend**: C# .NET, SQL Server  
-- 🎨 **Frontend**: Angular, JavaScript, HTML, Bootstrap
-
-
 I focus on delivering scalable and efficient solutions while continually learning and improving my skills. 📚 
 
 ---
@@ -53,23 +48,12 @@ I focus on delivering scalable and efficient solutions while continually learnin
     ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 
-
-
 - **Extras**:
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
-
 </p>
-
-### 🛠️ Tech Stack  
-- **Languages**: Dart, C#, JavaScript, SQL  
-- **Mobile**: Flutter (Cross-Platform)  
-- **Frontend**: Angular, JavaScript, HTML 5, Bootstrap 5 
-- **Backend**: .NET (C#), REST APIs
-- **Databases**: SQL Server, SQLite 
-- **Tools**: Git, Docker, Firebase Crashlytics
 
 ---
 
