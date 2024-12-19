@@ -58,27 +58,23 @@ I focus on delivering scalable and efficient solutions while continually learnin
 ---
 
 ### 🌟 Featured Projects  
-| Project          | Description                                | Technologies  and Tools        |  
-|------------------|--------------------------------------------|--------------------------------|  
-| **AcontPlus**    | Course app similar to Udemy.               | Flutter, SQLite, Firebase Crashlytics |  
-| **KJaia**        | Self-care and wellness application.        | Flutter, Firebase             |  
-| **Attendance App** | Attendance tracker for Sabbath school.   | Flutter, SQLite               |  
-| **Template-Based Portfolio** | Responsive portfolio showcasing projects. | Angular, HTML, Bootstrap       |
+| Project                 | Description                                    | Technologies and Tools              |  
+|-------------------------|-----------------------------------------------|-------------------------------------|  
+| **AcontPlus Application**     | Invoicing application for Ecuador.                | Flutter, SQLite, Firebase Crashlytics |  
+| **KJaia**               | Course application, similar to Udemy.           | Flutter, Firebase, Provider, SQLite, Clean Architecture |  
+| **AcontPlus Application Web** | Landing page to showcase application information. | HTML5, Astro, JavaScript            |  
+
 
 ---
 
 ### 📈 Estadísticas de GitHub
 
-
-
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Ignaciomanchu1998&show_icons=true&theme=dracula)
 
 ---
 
-### 🤝 Conéctate conmigo
-- 💼 **LinkedIn**: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil/)
-- 📧 **Email**: [Tu Email](mailto:tuemail@gmail.com)
-- 🌐 **Portafolio**: [Tu Sitio Web o Portafolio](https://tusitio.com)
+### 🤝 Connect with me
+- 💼 **BioLinks**: [danimanchu]([https://www.linkedin.com/in/tu-perfil/](https://bio.link/danimanc))
 
 ---
 
