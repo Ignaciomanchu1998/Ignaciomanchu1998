@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Ignacio Manchu 👋</h1>
-<h3 align="center">Mobile Developer | Especializado en Flutter, Kotlin</h3>
+<h3 align="center">Mobile Developer | Specialized in Flutter</h3>
 
 ---
 
